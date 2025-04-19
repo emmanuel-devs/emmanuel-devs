@@ -30,85 +30,14 @@ I don’t just build websites—I build digital experiences that *solve real bus
 
 ## 🏆 Portfolio Showcase
 
-<table>
-  <!-- Row 1 -->
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/emmanuel-devs/ecommerce-ui">
-        <img src="https://via.placeholder.com/600x400/FF6B00/FFFFFF?text=E-Commerce+UI" width="100%"/>
-        <br><b>E-Commerce Store</b>
-      </a>
-      <br><sub>Framer • Stripe • Lottie</sub>
-      <br>
-      <a href="https://ecommerce-demo.netlify.app">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-FF6B00?style=flat-square">
-      </a>
-    </td>
-    
-    <td width="33%" align="center">
-      <a href="https://github.com/emmanuel-devs/client-portal">
-        <img src="https://via.placeholder.com/600x400/21759B/FFFFFF?text=Client+Portal" width="100%"/>
-        <br><b>Client Portal</b>
-      </a>
-      <br><sub>WordPress • Elementor</sub>
-      <br>
-      <a href="https://portal-demo.netlify.app">
-        <img src="https://img.shields.io/badge/🔐_Live_Demo-21759B?style=flat-square">
-      </a>
-    </td>
-    
-    <td width="33%" align="center">
-      <a href="https://github.com/emmanuel-devs/analytics-dash">
-        <img src="https://via.placeholder.com/600x400/00C7B7/FFFFFF?text=Analytics+Dash" width="100%"/>
-        <br><b>Analytics Dashboard</b>
-      </a>
-      <br><sub>React • Tailwind</sub>
-      <br>
-      <a href="https://analytics-demo.netlify.app">
-        <img src="https://img.shields.io/badge/📊_Live_Preview-00C7B7?style=flat-square">
-      </a>
-    </td>
-  </tr>
-  
-  <!-- Row 2 -->
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/emmanuel-devs/landing-page">
-        <img src="https://via.placeholder.com/600x400/6E40C9/FFFFFF?text=SaaS+Landing" width="100%"/>
-        <br><b>SaaS Landing Page</b>
-      </a>
-      <br><sub>Framer • GSAP</sub>
-      <br>
-      <a href="https://saas-demo.netlify.app">
-        <img src="https://img.shields.io/badge/🌐_Live_Demo-6E40C9?style=flat-square">
-      </a>
-    </td>
-    
-    <td width="33%" align="center">
-      <a href="https://github.com/emmanuel-devs/mobile-app-ui">
-        <img src="https://via.placeholder.com/600x400/FF4088/FFFFFF?text=Mobile+App" width="100%"/>
-        <br><b>Fitness App UI</b>
-      </a>
-      <br><sub>Figma • ProtoPie</sub>
-      <br>
-      <a href="https://www.figma.com/proto/...">
-        <img src="https://img.shields.io/badge/📱_Prototype-FF4088?style=flat-square">
-      </a>
-    </td>
-    
-    <td width="33%" align="center">
-      <a href="https://github.com/emmanuel-devs/component-library">
-        <img src="https://via.placeholder.com/600x400/5E35B1/FFFFFF?text=UI+Components" width="100%"/>
-        <br><b>UI Component Library</b>
-      </a>
-      <br><sub>Storybook • Tailwind</sub>
-      <br>
-      <a href="https://ui-library.netlify.app">
-        <img src="https://img.shields.io/badge/🧩_Explore-5E35B1?style=flat-square">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+|  |  |  |
+|--|--|--|
+| **E-Commerce Solution** <br> [![Preview](https://via.placeholder.com/400x225/FF6B00/FFFFFF?text=Click+to+View)](https://github.com/emmanuel-devs/ecommerce-ui) <br> ▲ 62% conversion lift <br> ⚡ 0.9s load time <br> [![Demo](https://img.shields.io/badge/🛍️_LIVE-FF6B00?style=flat-square&logo=netlify)](https://ecommerce-demo.netlify.app) | **Client Portal** <br> [![Preview](https://via.placeholder.com/400x225/21759B/FFFFFF?text=Click+to+View)](https://github.com/emmanuel-devs/client-portal) <br> ▼ 75% fewer tickets <br> 🔄 3-day build <br> [![Demo](https://img.shields.io/badge/🔐_LOGIN-21759B?style=flat-square&logo=wordpress)](https://portal-demo.netlify.app) | **Analytics Dashboard** <br> [![Preview](https://via.placeholder.com/400x225/00C7B7/FFFFFF?text=Click+to+View)](https://github.com/emmanuel-devs/analytics-dash) <br> 📈 40% faster decisions <br> 🧩 50+ components <br> [![Demo](https://img.shields.io/badge/📊_VIEW-00C7B7?style=flat-square&logo=react)](https://analytics-demo.netlify.app) |
+| **SaaS Landing Page** <br> [![Preview](https://via.placeholder.com/400x225/6E40C9/FFFFFF?text=Click+to+View)](https://github.com/emmanuel-devs/landing-page) <br> ✉️ 200+ leads/month <br> 🎯 5% conversion <br> [![Demo](https://img.shields.io/badge/🚀_TRY-6E40C9?style=flat-square&logo=vercel)](https://saas-demo.netlify.app) | **Fitness App UI** <br> [![Preview](https://via.placeholder.com/400x225/FF4088/FFFFFF?text=Click+to+View)](https://github.com/emmanuel-devs/mobile-app-ui) <br> 👍 92% usability <br> 📱 10+ screens <br> [![Demo](https://img.shields.io/badge/📱_PROTOTYPE-FF4088?style=flat-square&logo=figma)](https://figma.com/proto/...) | **UI Library** <br> [![Preview](https://via.placeholder.com/400x225/5E35B1/FFFFFF?text=Click+to+View)](https://github.com/emmanuel-devs/component-library) <br> ⚙️ 80% time saved <br> 🔄 5x reuse <br> [![Demo](https://img.shields.io/badge/🧩_EXPLORE-5E35B1?style=flat-square&logo=storybook)](https://ui-library.netlify.app) |
+
+</div>
 
 ---
 
