@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/emmanuel-banner.png" alt="Emmanuel Samuel Banner" width="100%" />
+  <img src="./assets/images/github banner.png" alt="Emmanuel Samuel Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Emmanuel Samuel</h1>
@@ -59,5 +59,5 @@ Check out the **pinned repositories** below to see:
 ---
 
 <p align="center">
-  <img src="./assets/emmanuel-banner.png" alt="Emmanuel Samuel Banner" width="100%" />
+  <img src="./assets/images/github banner (1).png" alt="Emmanuel Samuel Banner" width="100%" />
 </p>
