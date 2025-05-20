@@ -59,7 +59,7 @@ I don’t just build websites—I build digital experiences that *solve real bus
 ### 📫 Let's Collaborate
 
 - **Portfolio**: [Coming Soon]
-- **LinkedIn**: [in/emmanuelsamuel](https://linkedin.com/in/emmanuelsamuel)
+- **LinkedIn**: [in/emmanuelsamuel](www.linkedin.com/in/emmanuel-samuels)
 - **Email**: `emmanuelsamuel.dev [at] gmail [dot] com`
 - **Availability**: Open for freelance projects
 
